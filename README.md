@@ -7,9 +7,11 @@ This is an Age Converter application that allows users to convert their age in y
 - Convert age from years to months, days, hours, minutes, and seconds.(drawable/screenshotres.jpg)(drawable/screenshotres.jpg)
 - Easy-to-use interface.
 - Option to enter birthdate or directly input the age.
+# Screenshots
+file:///home/rahul/Downloads/screenshot1.jpg
 
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/username/my-repo/main/Age_Converter/app/src/main/res/drawable/screenshot.jpg)
+file:///home/rahul/Downloads/screenshot2.jpg
+file:///home/rahul/Downloads/screenshot3.jpg
 
 
 
