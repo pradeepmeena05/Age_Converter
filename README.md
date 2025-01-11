@@ -9,7 +9,7 @@ This is an Age Converter application that allows users to convert their age in y
 - Option to enter birthdate or directly input the age.
 
 ## Screenshots
-![App Screenshot](res/drawable/screenshotres.jpg)
+![App Screenshot](app/res/drawable/screenshotres.jpg)
 
 ## Getting Started
 
